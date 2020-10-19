@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Projeto_Kaique_DMOS5</string>
+    <string name="cidade">Cidade</string>
+
+    <string name="btCarregar">Carregar</string>
+    <string name="btLimpar">Limpar</string>
+
+    <string name="textTemperatura">Temperatura</string>
+    <string name="textTempMax">Temp Max</string>
+    <string name="textTempMin">Temp Min</string>
+    <string name="textUmidade">Umidade</string>
+    <string name="textVento">Vento</string>
+    <string name="text">Carregar</string>
+    <string name="textCidade">Cidade</string>
+
+    <string name="erroCidade">Cidade não encontrada</string>
+
+    <string name="explicacaoPermissao">A busca do depende do acesso a internet, sem essa permissão o aplicativo não consegue recuperar a informação desejada.</string>
+    <string name="botaoFornecer">Autorizar</string>
+    <string name="botaNegar">Negar</string>
+
+</resources>
